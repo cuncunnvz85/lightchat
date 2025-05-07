@@ -1,0 +1,8 @@
+transformers>=4.30.0
+datasets>=2.14.0
+torch>=1.13.0
+accelerate>=0.26.0
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+typer[all]>=0.9.0
+rich>=13.4.0
